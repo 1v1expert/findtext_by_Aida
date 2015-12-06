@@ -1,0 +1,9 @@
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\bin\Debug\find_word_in filetext.exe.config
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\bin\Debug\find_word_in filetext.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\bin\Debug\find_word_in filetext.pdb
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\obj\Debug\find_word_in filetext.csprojResolveAssemblyReference.cache
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\obj\Debug\find_word_in_filetext.Form1.resources
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\obj\Debug\find_word_in_filetext.Properties.Resources.resources
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\obj\Debug\find_word_in filetext.csproj.GenerateResource.Cache
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\obj\Debug\find_word_in filetext.exe
+C:\Users\Алкаш Влад\Documents\Visual Studio 2012\Projects\find_word_in filetext\find_word_in filetext\obj\Debug\find_word_in filetext.pdb
